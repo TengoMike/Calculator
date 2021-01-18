@@ -1,2 +1,2 @@
 # Calculator
-Python calculator
+Do you want to make some operations on numbers?
